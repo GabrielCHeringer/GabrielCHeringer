@@ -3,9 +3,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00f700&center=true&vCenter=true&width=435&lines=Fullstack+Dev+%7C+Java+Enthusiast;LinkedIn+@gabrielheringer;" alt="Typing SVG"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielCHeringer&theme=chartreuse-dark"/>
-</div>
+<p align="center">
+  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielCHeringer&theme=chartreuse-dark"/>
+  <img height="200" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GabrielCHeringer&layout=compact&langs_count=8&theme=chartreuse-dark"/>
+</p>
+
 
 
 <h2>Main Stacks</h2>
