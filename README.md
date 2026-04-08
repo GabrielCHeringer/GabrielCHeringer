@@ -5,8 +5,8 @@
 
 
 <p align="center">
-  <img width="57%" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielCHeringer&theme=chartreuse-dark"/>
-  <img width="41%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GabrielCHeringer&layout=compact&langs_count=8&theme=chartreuse-dark"/>
+  <img width="53%" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielCHeringer&theme=chartreuse-dark"/>
+  <img width="45%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GabrielCHeringer&layout=compact&langs_count=8&theme=chartreuse-dark"/>
 </p>
 
 <h2>Main Stacks</h2>
