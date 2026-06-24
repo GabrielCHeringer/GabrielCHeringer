@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GO-3776AB?style=for-the-badge&logo=GO&logoColor=white"/>
 </p>
 </p>
 <hr style="height:1px;border:none;background-color:#444; width:300px; margin:10px 0;" />
